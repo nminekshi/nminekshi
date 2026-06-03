@@ -100,16 +100,7 @@ const minekshi = {
 
 ---
 
-### 📊 My GitHub Journey
 
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=nminekshi&show_icons=true&theme=rose_pine&hide_border=true&bg_color=1a1025&title_color=FF6EB4&icon_color=c084fc&text_color=e2d9f3&ring_color=FF6EB4&count_private=true&include_all_commits=true"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nminekshi&layout=compact&theme=rose_pine&hide_border=true&bg_color=1a1025&title_color=FF6EB4&text_color=e2d9f3&langs_count=8"/>
-
-</div>
-
----
 
 ### 🌙 What I'm Up To
 
