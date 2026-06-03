@@ -109,12 +109,6 @@ const minekshi = {
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nminekshi&theme=rose-pine&hide_border=true&background=1a1025&stroke=FF6EB4&ring=FF6EB4&fire=FFB347&currStreakLabel=FF6EB4&sideLabels=e2d9f3&dates=9d8bb0)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ### 🌙 What I'm Up To
@@ -146,27 +140,8 @@ const minekshi = {
 
 </div>
 
----
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nminekshi&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 🎵 Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1025&border_color=FF6EB4)](https://open.spotify.com)
-
-</div>
-
----
 
 ### 🦋 Let's Connect!
 
